@@ -1,2 +1,3 @@
 # DIO-desafios-de-codigo
-de código. Inclui somente soluções pessoais dos desafios de projeto/portfólio.
+Inclui somente soluções pessoais dos desafios de projeto/portfólio sugeridos.
+Não inclui respostas aos desafios de código.
